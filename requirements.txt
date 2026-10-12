@@ -1,0 +1,12 @@
+geopandas>=1.0
+mapclassify
+pyarrow
+matplotlib
+scikit-learn>=1.4
+libpysal
+esda
+mgwr
+spopt
+statsmodels
+shap
+jupyterlab

@@ -1,0 +1,22 @@
+# notebook noise
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# outputs the notebooks write while running
+out/
+**/out/
+data/processed/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.whisper/
+
+# macOS
+.DS_Store
+
+# editors
+.vscode/
+.idea/
