@@ -14,12 +14,13 @@ run the first cell, and the data downloads itself.
 |---|---|---|---|
 | 01 | **Introduction to GeoPandas** — the geometry column, CRS, projecting to metres, file formats, your first map | [watch](https://youtu.be/FvdJasgymRE) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reza-geospatial/geospatial-data-science-python/blob/main/01_SpatialData/S1_01_GeoPandas.ipynb) |
 | 02 | **Coordinate reference systems** — reading a CRS, `set_crs` vs `to_crs`, mismatched joins, why Web Mercator lies, buffering in degrees | [watch](https://youtu.be/VIDEO_ID) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reza-geospatial/geospatial-data-science-python/blob/main/02_CRS/S1_02_CRS.ipynb) |
+| 03 | **Spatial joins, buffers and overlays** — `sjoin` and its predicates, buffer, overlay, dissolve, and counting the rows every join loses | [watch](https://youtu.be/VIDEO_ID) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reza-geospatial/geospatial-data-science-python/blob/main/03_SpatialJoins/S1_03_SpatialJoins.ipynb) |
 
 More episodes are published here as each video goes live.
 
 **Coming next**
 
-- Series 1 — spatial joins, buffers and overlays · nearest neighbour and geocoding · classification and basemaps · getting real data from OSM, WFS and PostGIS
+- Series 1 — nearest neighbour and geocoding · classification and basemaps · getting real data from OSM, WFS and PostGIS
 - Series 2 — Spatial Statistics That Actually Matter
 - Series 3 — Spatial Machine Learning Done Right
 
